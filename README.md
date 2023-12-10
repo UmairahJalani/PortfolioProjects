@@ -1,7 +1,5 @@
 # Coffee Shop Sales Dashboard
 
-About this project
-
 Introduction
 
 This project is to better understand purchase behavior and streamline operations. Transaction data from January to Jun 2023. The goal is to transform the data into a dynamic dashboard that franchise owners can use to identify patterns, trends and opportunities for business.
